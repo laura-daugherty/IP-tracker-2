@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d01316b8.chunk.css",
+    "main.js": "/static/js/main.037ac3c3.chunk.js",
+    "main.js.map": "/static/js/main.037ac3c3.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.cfddd880.js",
+    "runtime-main.js.map": "/static/js/runtime-main.cfddd880.js.map",
+    "static/js/2.3094fe50.chunk.js": "/static/js/2.3094fe50.chunk.js",
+    "static/js/2.3094fe50.chunk.js.map": "/static/js/2.3094fe50.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.dd4c9b87a7a4a4eb7ec9f181bede258d.js": "/precache-manifest.dd4c9b87a7a4a4eb7ec9f181bede258d.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.d01316b8.chunk.css.map": "/static/css/main.d01316b8.chunk.css.map",
+    "static/js/2.3094fe50.chunk.js.LICENSE.txt": "/static/js/2.3094fe50.chunk.js.LICENSE.txt",
+    "static/media/icon-arrow.svg": "/static/media/icon-arrow.53ef8ed8.svg",
+    "static/media/icon-location.svg": "/static/media/icon-location.ff171469.svg",
+    "static/media/App.css": "/static/media/pattern-bg.8d3f4ad6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cfddd880.js",
+    "static/js/2.3094fe50.chunk.js",
+    "static/css/main.d01316b8.chunk.css",
+    "static/js/main.037ac3c3.chunk.js"
+  ]
+}
